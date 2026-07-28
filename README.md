@@ -5,12 +5,12 @@ A hybrid movie recommendation system that suggests movies using content-based an
 
 Features
 
-*🔍 Search any movie and get posters, trailer, cast, and overview
-*🎯 Hybrid recommendations combining content-based (TF-IDF) and collaborative filtering
-*🧩 Fallback matcher for movies outside the dataset, so recommendations never dead-end
-*🎠 Horizontally scrollable rows for Popular, Trending, Top Rated, Now Playing, and Upcoming
-*🖱️ Click any movie card to jump straight into its detail page
-*⚡ Precomputed top-K similarity lookups instead of full similarity matrices — cut model size by ~99% for fast, deployable performance
+* 🔍 Search any movie and get posters, trailer, cast, and overview
+* 🎯 Hybrid recommendations combining content-based (TF-IDF) and collaborative filtering
+* 🧩 Fallback matcher for movies outside the dataset, so recommendations never dead-end
+* 🎠 Horizontally scrollable rows for Popular, Trending, Top Rated, Now Playing, and Upcoming
+* 🖱️ Click any movie card to jump straight into its detail page
+* ⚡ Precomputed top-K similarity lookups instead of full similarity matrices — cut model size by ~99% for fast, deployable performance
 
 Tech Stack
 
